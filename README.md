@@ -1,4 +1,4 @@
 # prassanjeetsingha-demo
 This is my first Git Repository.... 
 <br>
-Author-Prassanjeet Singha
+Author-Prassanjeet Singha(Owner)
